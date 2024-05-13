@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "a3a76ed86a41f61c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f499db885f1aa57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64c5803b235ce11a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work Knowledge/Frameworks/Spring/Work with DB/Hibernate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aecbe9ce1de37252",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7c5175222a8de15",
+    "type": "split",
+    "children": [
+      {
+        "id": "9875b2c1284049d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc82afe0f15269e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2602943e90472185",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e4808720c05b167",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f88e29f5c6f58b00",
+    "type": "split",
+    "children": [
+      {
+        "id": "c20c941d10b8aa82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "182e0761ed73c109",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Work Knowledge/Frameworks/Spring/Work with DB/Hibernate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9871086f76b00b8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Work Knowledge/Frameworks/Spring/Work with DB/Hibernate.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed761766c54aa8c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "994a292a472c6ed6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Work Knowledge/Frameworks/Spring/Work with DB/Hibernate.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "aecbe9ce1de37252",
+  "lastOpenFiles": [
+    "Work Knowledge/Frameworks/Spring/Work with DB/JDBC.md",
+    "Work Knowledge/Frameworks/Spring/Work with DB/Java Persistence API (JPA).md",
+    "Work Knowledge/Frameworks/Spring/Work with DB/Java Transaction API (JTA).md",
+    "Work Knowledge/Frameworks/Spring/Work with DB/Java Data Objects (JDO).md",
+    "Work Knowledge/Frameworks/Spring/Work with DB/Hibernate.md",
+    "2024-04-01.md",
+    "Work Knowledge/Computer S/Network/Protocols/Server Sent Events (SSE).md",
+    "Work Knowledge/Frameworks/Spring/Work with DB",
+    "Work Knowledge/Computer S/Network/Protocols/Web socket.md",
+    "Work Knowledge/Computer S/Network/Polling.md",
+    "zDBImg/Pasted image 20240115153942.png",
+    "zDBImg/Pasted image 20240115153936.png",
+    "zDBImg/Pasted image 20240115153918.png",
+    "zDBImg/Pasted image 20240115153819.png",
+    "podcasts/zamandas/Эмиль Досов.md",
+    "Work Knowledge/Audio.md",
+    "podcasts/zamandas",
+    "podcasts",
+    "Work Knowledge/Codec/MP3.md",
+    "Work Knowledge/Codec/OGG.md",
+    "zDBImg/Pasted image 20240115153927.png",
+    "zDBImg",
+    "Pasted image 20240115153614.png",
+    "Pasted image 20240115153618.png",
+    "Pasted image 20240115153623.png",
+    "Work Knowledge/Computer S/Без названия.md",
+    "Work Knowledge/Computer S/Network/Methods",
+    "Work Knowledge/Codec/WAV.md",
+    "Work Knowledge/Codec",
+    "Work Knowledge/Frameworks/Gin",
+    "Work Knowledge/Computer S/Network/Protocols",
+    "Books/The Goal.md",
+    "Work Knowledge/Computer S/PL/Python",
+    "Work Knowledge/Computer S/PL/Go",
+    "Без названия.canvas",
+    "2024-01-05.md"
+  ]
+}

@@ -163,11 +163,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "52ebdd0ece1ae2f1",
+  "active": "b696d590bccb3396",
   "lastOpenFiles": [
+    "gitignore.txt",
     "test 1.zip",
     "test.zip",
     "work Lessons/Raid/Raid Level/Raid 5.md",
@@ -213,7 +215,6 @@
     "Education/zDBImg/Wss.png",
     "Education/zDBImg/Screenshot from 2025-04-04 11-08-23.png",
     "Education/IT/General",
-    "work Lessons",
     "Education/zDBImg/Observer.png",
     "Education/zDBImg/Example  Observer.png",
     "Education/Screenshot from 2025-01-23 10-43-24.png",

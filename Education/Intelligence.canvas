@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"e4e6cdfa244b530e","type":"text","text":"Intelligence","x":-180,"y":-204,"width":250,"height":60},
+		{"id":"9f5fdaa4ca401678","type":"text","text":"Emotional","x":-560,"y":-310,"width":250,"height":60},
+		{"id":"8544f80ddffa5364","type":"text","text":"Creative","x":-640,"y":-204,"width":250,"height":60},
+		{"id":"a5bcca483073f171","type":"text","text":"Interpersonal","x":-560,"y":-100,"width":250,"height":60},
+		{"id":"e33d096b6232b372","type":"text","text":"Academic","x":220,"y":0,"width":250,"height":60},
+		{"id":"b1814470431d22a2","type":"text","text":"Computer Science ","x":628,"y":-80,"width":250,"height":60},
+		{"id":"df7f5a9d7c7b00d4","type":"text","text":"Finance","x":220,"y":-460,"width":250,"height":60},
+		{"id":"1e41ff843015506c","type":"text","text":"Computer Science ","x":628,"y":30,"width":250,"height":60},
+		{"id":"e7a76389a4063d9f","type":"text","text":"Вести учет","x":600,"y":-460,"width":250,"height":60},
+		{"id":"3548aca77db4d1c5","type":"text","text":"Фокус","x":600,"y":-360,"width":250,"height":60},
+		{"id":"fd5b847676de22be","type":"text","text":"Cоздавать копитал","x":600,"y":-560,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"c1b92415cf02907b","fromNode":"e4e6cdfa244b530e","fromSide":"right","toNode":"df7f5a9d7c7b00d4","toSide":"left"},
+		{"id":"639d236f29e2abc2","fromNode":"e4e6cdfa244b530e","fromSide":"left","toNode":"9f5fdaa4ca401678","toSide":"right"},
+		{"id":"309f8b5d516c731f","fromNode":"e4e6cdfa244b530e","fromSide":"right","toNode":"e33d096b6232b372","toSide":"left"},
+		{"id":"241d59acb0a35a4c","fromNode":"e4e6cdfa244b530e","fromSide":"left","toNode":"a5bcca483073f171","toSide":"right"},
+		{"id":"13cb866cdf8e7655","fromNode":"e4e6cdfa244b530e","fromSide":"left","toNode":"8544f80ddffa5364","toSide":"right"},
+		{"id":"7cdf1be3e7345820","fromNode":"df7f5a9d7c7b00d4","fromSide":"right","toNode":"fd5b847676de22be","toSide":"left"},
+		{"id":"f3bdb71aa47e0266","fromNode":"df7f5a9d7c7b00d4","fromSide":"right","toNode":"e7a76389a4063d9f","toSide":"left"},
+		{"id":"9ceec3d9657e28a6","fromNode":"df7f5a9d7c7b00d4","fromSide":"right","toNode":"3548aca77db4d1c5","toSide":"left"},
+		{"id":"3104f223033ec2ea","fromNode":"e33d096b6232b372","fromSide":"right","toNode":"b1814470431d22a2","toSide":"left"},
+		{"id":"7d4026cb8b9aeb49","fromNode":"e33d096b6232b372","fromSide":"right","toNode":"1e41ff843015506c","toSide":"left"}
+	]
+}

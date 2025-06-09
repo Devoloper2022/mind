@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"f3bc6a531d93b213","type":"file","file":"work Lessons/Raid/Raid Level/Raid 10.md","x":1320,"y":-200,"width":400,"height":140},
+		{"id":"f029d5ec6ca4207a","type":"file","file":"work Lessons/Raid/Raid Level/Raid 5.md","x":520,"y":300,"width":400,"height":120},
+		{"id":"84b5548f425b636f","type":"file","file":"work Lessons/Raid/Raid Level/Raid 6.md","x":520,"y":500,"width":400,"height":140},
+		{"id":"95b59c9fec4e43eb","type":"file","file":"work Lessons/Raid/Raid Level/Raid 1 (Mirror).md","x":520,"y":-255,"width":400,"height":110},
+		{"id":"6ad2be38b425f873","type":"file","file":"work Lessons/Raid/Raid Level/Raid 0 (Stripes).md","x":520,"y":0,"width":400,"height":101},
+		{"id":"f9208a97ea3056b5","type":"file","file":"work Lessons/Raid/Raid Level/Raid 50.md","x":1320,"y":80,"width":400,"height":120},
+		{"id":"15a4c367cf8ffd80","type":"file","file":"work Lessons/Raid/Raid Level/Raid 60.md","x":1320,"y":360,"width":400,"height":122},
+		{"id":"e2d1c2014c29bf43","type":"file","file":"work Lessons/Raid/Raid.md","x":-280,"y":101,"width":380,"height":220}
+	],
+	"edges":[
+		{"id":"353723962962d41f","fromNode":"e2d1c2014c29bf43","fromSide":"right","toNode":"6ad2be38b425f873","toSide":"left"},
+		{"id":"ba43d33048ef60e3","fromNode":"e2d1c2014c29bf43","fromSide":"right","toNode":"95b59c9fec4e43eb","toSide":"left"},
+		{"id":"a2f9fd3456f6ddd0","fromNode":"6ad2be38b425f873","fromSide":"right","toNode":"f3bc6a531d93b213","toSide":"left","color":"2"},
+		{"id":"3130c037c26e1e97","fromNode":"95b59c9fec4e43eb","fromSide":"right","toNode":"f3bc6a531d93b213","toSide":"left"},
+		{"id":"7c2a0a873705e101","fromNode":"e2d1c2014c29bf43","fromSide":"right","toNode":"f029d5ec6ca4207a","toSide":"left"},
+		{"id":"3e041e412bdf7d91","fromNode":"e2d1c2014c29bf43","fromSide":"right","toNode":"84b5548f425b636f","toSide":"left"},
+		{"id":"70e059bf1103ba1c","fromNode":"f029d5ec6ca4207a","fromSide":"right","toNode":"f9208a97ea3056b5","toSide":"left"},
+		{"id":"c393de540e7daa56","fromNode":"6ad2be38b425f873","fromSide":"right","toNode":"f9208a97ea3056b5","toSide":"left","color":"2"},
+		{"id":"0334e2af01861481","fromNode":"6ad2be38b425f873","fromSide":"right","toNode":"15a4c367cf8ffd80","toSide":"left","color":"2"},
+		{"id":"7db52425c8e9c9f8","fromNode":"84b5548f425b636f","fromSide":"right","toNode":"15a4c367cf8ffd80","toSide":"left"}
+	]
+}

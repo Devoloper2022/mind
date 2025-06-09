@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"7b825a1842c5f66c","type":"text","text":"Teacher","x":-66,"y":160,"width":142,"height":60},
+		{"id":"94d13958fb8bc2f5","type":"text","text":"Engineer","x":340,"y":-120,"width":142,"height":60},
+		{"id":"f637ec017c6b21df","type":"text","text":"Санат\n","x":-49,"y":-120,"width":108,"height":60},
+		{"id":"25926086d4de7a54","type":"text","text":"???","x":-480,"y":-120,"width":142,"height":60}
+	],
+	"edges":[
+		{"id":"c95420cba91b9b0f","fromNode":"f637ec017c6b21df","fromSide":"right","toNode":"94d13958fb8bc2f5","toSide":"left"},
+		{"id":"fb1ab33ee37518b9","fromNode":"f637ec017c6b21df","fromSide":"bottom","toNode":"7b825a1842c5f66c","toSide":"top"},
+		{"id":"0a8ac8332049469f","fromNode":"f637ec017c6b21df","fromSide":"left","toNode":"25926086d4de7a54","toSide":"right"}
+	]
+}

@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "a3a76ed86a41f61c",
+    "id": "efe8136b3460a1d8",
     "type": "split",
     "children": [
       {
-        "id": "1f499db885f1aa57",
+        "id": "f451ab02571c4d6c",
         "type": "tabs",
         "children": [
           {
-            "id": "64c5803b235ce11a",
+            "id": "ed2b50e2b860b351",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a7c5175222a8de15",
+    "id": "3944c4f3ef63a730",
     "type": "split",
     "children": [
       {
-        "id": "9875b2c1284049d9",
+        "id": "7248927ccb35f0dd",
         "type": "tabs",
         "children": [
           {
-            "id": "cc82afe0f15269e5",
+            "id": "d3620d8038f94c8d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "2602943e90472185",
+            "id": "d5a8e5785d746d83",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "5e4808720c05b167",
+            "id": "38ae84faf8767a81",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "f88e29f5c6f58b00",
+    "id": "490907c0f0e327d6",
     "type": "split",
     "children": [
       {
-        "id": "c20c941d10b8aa82",
+        "id": "975f6cb82514c765",
         "type": "tabs",
         "children": [
           {
-            "id": "182e0761ed73c109",
+            "id": "f4e1d185fa2b0d19",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "9871086f76b00b8e",
+            "id": "942691a06e0583f2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +116,7 @@
             }
           },
           {
-            "id": "ed761766c54aa8c4",
+            "id": "db2285307ed256b2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +131,7 @@
             }
           },
           {
-            "id": "994a292a472c6ed6",
+            "id": "591484a609b28cc0",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -161,43 +161,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64c5803b235ce11a",
-  "lastOpenFiles": [
-    "Work Knowledge/Frameworks/Spring/Work with DB/JDBC.md",
-    "Work Knowledge/Frameworks/Spring/Work with DB/Java Persistence API (JPA).md",
-    "Work Knowledge/Frameworks/Spring/Work with DB/Java Transaction API (JTA).md",
-    "Work Knowledge/Frameworks/Spring/Work with DB/Java Data Objects (JDO).md",
-    "Work Knowledge/Frameworks/Spring/Work with DB/Hibernate.md",
-    "2024-04-01.md",
-    "Work Knowledge/Computer S/Network/Protocols/Server Sent Events (SSE).md",
-    "Work Knowledge/Frameworks/Spring/Work with DB",
-    "Work Knowledge/Computer S/Network/Protocols/Web socket.md",
-    "Work Knowledge/Computer S/Network/Polling.md",
-    "zDBImg/Pasted image 20240115153942.png",
-    "zDBImg/Pasted image 20240115153936.png",
-    "zDBImg/Pasted image 20240115153918.png",
-    "zDBImg/Pasted image 20240115153819.png",
-    "podcasts/zamandas/Эмиль Досов.md",
-    "Work Knowledge/Audio.md",
-    "podcasts/zamandas",
-    "podcasts",
-    "Work Knowledge/Codec/MP3.md",
-    "Work Knowledge/Codec/OGG.md",
-    "zDBImg/Pasted image 20240115153927.png",
-    "zDBImg",
-    "Pasted image 20240115153614.png",
-    "Pasted image 20240115153618.png",
-    "Pasted image 20240115153623.png",
-    "Work Knowledge/Computer S/Без названия.md",
-    "Work Knowledge/Computer S/Network/Methods",
-    "Work Knowledge/Codec/WAV.md",
-    "Work Knowledge/Codec",
-    "Work Knowledge/Frameworks/Gin",
-    "Work Knowledge/Computer S/Network/Protocols",
-    "Books/The Goal.md",
-    "Work Knowledge/Computer S/PL/Python",
-    "Work Knowledge/Computer S/PL/Go",
-    "Без названия.canvas",
-    "2024-01-05.md"
-  ]
+  "active": "ed2b50e2b860b351",
+  "lastOpenFiles": []
 }

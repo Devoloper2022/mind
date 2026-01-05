@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"de4439ea8f08ce1e","type":"text","text":"совет директоров ","x":-160,"y":-240,"width":250,"height":60},
+		{"id":"cb8eaacde9f18212","type":"text","text":"Решение: Группу Адекса Продать ","x":258,"y":-241,"width":250,"height":60},
+		{"id":"93e7f909dfbb8edf","x":-194,"y":-80,"width":250,"height":60,"type":"text","text":"Конфликт с дочкой "},
+		{"id":"59a46eed96b211cf","type":"file","file":"Education/Books/AIm 2/Приемы ведения Переговорами/Грозавая туча.md","x":183,"y":98,"width":400,"height":50},
+		{"id":"510e2f8cc073c80c","x":-100,"y":300,"width":250,"height":60,"type":"text","text":"Типография Пита "}
+	],
+	"edges":[
+		{"id":"ac98e779d80108e1","fromNode":"de4439ea8f08ce1e","fromSide":"right","toNode":"cb8eaacde9f18212","toSide":"left"},
+		{"id":"d3f041e395248f8a","fromNode":"cb8eaacde9f18212","fromSide":"bottom","toNode":"93e7f909dfbb8edf","toSide":"top"},
+		{"id":"491810c0947fad13","fromNode":"93e7f909dfbb8edf","fromSide":"bottom","toNode":"59a46eed96b211cf","toSide":"top"},
+		{"id":"715e446548c45d01","fromNode":"59a46eed96b211cf","fromSide":"bottom","toNode":"510e2f8cc073c80c","toSide":"top"}
+	]
+}

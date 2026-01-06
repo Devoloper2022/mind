@@ -2,14 +2,38 @@
 	"nodes":[
 		{"id":"de4439ea8f08ce1e","type":"text","text":"совет директоров ","x":-160,"y":-240,"width":250,"height":60},
 		{"id":"cb8eaacde9f18212","type":"text","text":"Решение: Группу Адекса Продать ","x":258,"y":-241,"width":250,"height":60},
-		{"id":"93e7f909dfbb8edf","x":-194,"y":-80,"width":250,"height":60,"type":"text","text":"Конфликт с дочкой "},
-		{"id":"59a46eed96b211cf","type":"file","file":"Education/Books/AIm 2/Приемы ведения Переговорами/Грозавая туча.md","x":183,"y":98,"width":400,"height":50},
-		{"id":"510e2f8cc073c80c","x":-100,"y":300,"width":250,"height":60,"type":"text","text":"Типография Пита "}
+		{"id":"93e7f909dfbb8edf","type":"text","text":"Конфликт с дочкой ","x":-160,"y":-80,"width":250,"height":60},
+		{"id":"59a46eed96b211cf","type":"file","file":"Education/Books/AIm 2/Приемы ведения Переговорами/Грозавая туча.md","x":258,"y":-75,"width":400,"height":50},
+		{"id":"510e2f8cc073c80c","type":"text","text":"Типография Пита ","x":-160,"y":60,"width":250,"height":60},
+		{"id":"12140bba92bcc273","type":"text","text":"Спор между Доном и Алексом Закрыть отдел или нет","x":300,"y":38,"width":250,"height":105},
+		{"id":"559b52fbba01eee9","type":"text","text":"Встерча Гренби","x":-160,"y":200,"width":250,"height":50},
+		{"id":"52b25a7fb38aace4","type":"text","text":"Кабинет","x":-160,"y":460,"width":250,"height":50},
+		{"id":"d67919d800545a5c","type":"text","text":"Встерча Пич","x":-160,"y":340,"width":250,"height":50},
+		{"id":"f3ae3ebed737f62c","type":"text","text":"Гренби: точно продаем","x":300,"y":198,"width":250,"height":52},
+		{"id":"f9a13df116f68820","type":"text","text":"Немного про текущую ситуацию ","x":300,"y":338,"width":250,"height":52},
+		{"id":"4ca892af8f0bf162","type":"text","text":"Анализ цен я","x":300,"y":458,"width":250,"height":52},
+		{"id":"70bffed7667dc623","type":"text","text":"как Пит конкурирует при низких объемах","x":720,"y":38,"width":250,"height":105},
+		{"id":"510a6eced92bc51d","type":"text","text":"255+30+86 VS 80","x":720,"y":450,"width":250,"height":60},
+		{"id":"43392a5414b0d7ac","type":"text","text":"Довольная дочка","x":780,"y":-80,"width":250,"height":60},
+		{"id":"e586f634a2fa97f8","type":"text","text":"Просьба Сына ","x":-160,"y":600,"width":250,"height":50},
+		{"id":"3b26e4a224161044","type":"text","text":"Анализ ","x":300,"y":600,"width":250,"height":52}
 	],
 	"edges":[
-		{"id":"ac98e779d80108e1","fromNode":"de4439ea8f08ce1e","fromSide":"right","toNode":"cb8eaacde9f18212","toSide":"left"},
-		{"id":"d3f041e395248f8a","fromNode":"cb8eaacde9f18212","fromSide":"bottom","toNode":"93e7f909dfbb8edf","toSide":"top"},
-		{"id":"491810c0947fad13","fromNode":"93e7f909dfbb8edf","fromSide":"bottom","toNode":"59a46eed96b211cf","toSide":"top"},
-		{"id":"715e446548c45d01","fromNode":"59a46eed96b211cf","fromSide":"bottom","toNode":"510e2f8cc073c80c","toSide":"top"}
+		{"id":"ac98e779d80108e1","fromNode":"de4439ea8f08ce1e","fromSide":"right","toNode":"cb8eaacde9f18212","toSide":"left","toEnd":"none"},
+		{"id":"e75c6606a2e41206","fromNode":"510e2f8cc073c80c","fromSide":"right","toNode":"12140bba92bcc273","toSide":"left","toEnd":"none"},
+		{"id":"3c3186e79f8fc694","fromNode":"de4439ea8f08ce1e","fromSide":"bottom","toNode":"93e7f909dfbb8edf","toSide":"top"},
+		{"id":"f0870373300c571c","fromNode":"93e7f909dfbb8edf","fromSide":"right","toNode":"59a46eed96b211cf","toSide":"left","toEnd":"none"},
+		{"id":"9f1ca1b36af5334d","fromNode":"93e7f909dfbb8edf","fromSide":"bottom","toNode":"510e2f8cc073c80c","toSide":"top"},
+		{"id":"16136f4fe04299e6","fromNode":"559b52fbba01eee9","fromSide":"right","toNode":"f3ae3ebed737f62c","toSide":"left","toEnd":"none"},
+		{"id":"80b3ebf934b1d7ae","fromNode":"510e2f8cc073c80c","fromSide":"bottom","toNode":"559b52fbba01eee9","toSide":"top"},
+		{"id":"269aa344ee27dc31","fromNode":"559b52fbba01eee9","fromSide":"bottom","toNode":"d67919d800545a5c","toSide":"top"},
+		{"id":"519f5927c4085349","fromNode":"d67919d800545a5c","fromSide":"bottom","toNode":"52b25a7fb38aace4","toSide":"top"},
+		{"id":"cbe3b6adceeb323e","fromNode":"d67919d800545a5c","fromSide":"right","toNode":"f9a13df116f68820","toSide":"left","toEnd":"none"},
+		{"id":"ce74f32f821300b0","fromNode":"52b25a7fb38aace4","fromSide":"right","toNode":"4ca892af8f0bf162","toSide":"left","toEnd":"none"},
+		{"id":"e25215388dc710de","fromNode":"12140bba92bcc273","fromSide":"right","toNode":"70bffed7667dc623","toSide":"left","toEnd":"none"},
+		{"id":"abd98a224a96e167","fromNode":"510a6eced92bc51d","fromSide":"left","toNode":"4ca892af8f0bf162","toSide":"right","toEnd":"none"},
+		{"id":"1c45cea0a49ee270","fromNode":"59a46eed96b211cf","fromSide":"right","toNode":"43392a5414b0d7ac","toSide":"left","toEnd":"none"},
+		{"id":"f8227312a1782009","fromNode":"52b25a7fb38aace4","fromSide":"bottom","toNode":"e586f634a2fa97f8","toSide":"top"},
+		{"id":"3a335684c914cb42","fromNode":"e586f634a2fa97f8","fromSide":"right","toNode":"3b26e4a224161044","toSide":"left"}
 	]
 }

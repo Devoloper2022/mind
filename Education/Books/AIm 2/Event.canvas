@@ -3,7 +3,7 @@
 		{"id":"de4439ea8f08ce1e","type":"text","text":"совет директоров ","x":-160,"y":-240,"width":250,"height":60},
 		{"id":"cb8eaacde9f18212","type":"text","text":"Решение: Группу Адекса Продать ","x":258,"y":-241,"width":250,"height":60},
 		{"id":"93e7f909dfbb8edf","type":"text","text":"Конфликт с дочкой ","x":-160,"y":-80,"width":250,"height":60},
-		{"id":"59a46eed96b211cf","type":"file","file":"Education/Books/AIm 2/Приемы ведения Переговорами/Грозавая туча.md","x":258,"y":-75,"width":400,"height":50},
+		{"id":"59a46eed96b211cf","type":"file","file":"Education/Books/AIm 2/Теория/Приемы ведения Переговорами/Грозавая туча.md","x":258,"y":-75,"width":400,"height":50},
 		{"id":"510e2f8cc073c80c","type":"text","text":"Типография Пита ","x":-160,"y":60,"width":250,"height":60},
 		{"id":"12140bba92bcc273","type":"text","text":"Спор между Доном и Алексом Закрыть отдел или нет","x":300,"y":38,"width":250,"height":105},
 		{"id":"559b52fbba01eee9","type":"text","text":"Встерча Гренби","x":-160,"y":200,"width":250,"height":50},
@@ -16,7 +16,15 @@
 		{"id":"510a6eced92bc51d","type":"text","text":"255+30+86 VS 80","x":720,"y":450,"width":250,"height":60},
 		{"id":"43392a5414b0d7ac","type":"text","text":"Довольная дочка","x":780,"y":-80,"width":250,"height":60},
 		{"id":"e586f634a2fa97f8","type":"text","text":"Просьба Сына ","x":-160,"y":600,"width":250,"height":50},
-		{"id":"3b26e4a224161044","type":"text","text":"Анализ ","x":300,"y":600,"width":250,"height":52}
+		{"id":"3b26e4a224161044","type":"text","text":"Анализ ","x":300,"y":600,"width":250,"height":52},
+		{"id":"bf099f3bd8f70771","type":"text","text":"У Алекса  Встреча ","x":-160,"y":760,"width":250,"height":60},
+		{"id":"44c83a55de2abafd","type":"text","text":"Ситуация Дона ","x":300,"y":760,"width":250,"height":60},
+		{"id":"06a6b79238a66f20","type":"text","text":"Наладил систему дистрбуции","x":720,"y":760,"width":250,"height":60},
+		{"id":"9209923e39313724","type":"text","text":"Проблема с разработкой новый продукции ","x":1100,"y":760,"width":250,"height":60},
+		{"id":"5b8727280574baa8","type":"text","text":"обяснение: системы дистрбуции","x":1500,"y":760,"width":250,"height":60},
+		{"id":"80294a879f32beef","type":"file","file":"Education/Books/AIm 2/Local Events/Cистема дистрибуции.canvas","x":2120,"y":600,"width":400,"height":301},
+		{"id":"f8699f6ed4dc8385","x":288,"y":911,"width":250,"height":60,"type":"text","text":"Будущая проблема "},
+		{"id":"da8945a658b4d4a4","x":720,"y":911,"width":250,"height":60,"type":"text","text":"Ситуация Стейси\n"}
 	],
 	"edges":[
 		{"id":"ac98e779d80108e1","fromNode":"de4439ea8f08ce1e","fromSide":"right","toNode":"cb8eaacde9f18212","toSide":"left","toEnd":"none"},
@@ -34,6 +42,15 @@
 		{"id":"abd98a224a96e167","fromNode":"510a6eced92bc51d","fromSide":"left","toNode":"4ca892af8f0bf162","toSide":"right","toEnd":"none"},
 		{"id":"1c45cea0a49ee270","fromNode":"59a46eed96b211cf","fromSide":"right","toNode":"43392a5414b0d7ac","toSide":"left","toEnd":"none"},
 		{"id":"f8227312a1782009","fromNode":"52b25a7fb38aace4","fromSide":"bottom","toNode":"e586f634a2fa97f8","toSide":"top"},
-		{"id":"3a335684c914cb42","fromNode":"e586f634a2fa97f8","fromSide":"right","toNode":"3b26e4a224161044","toSide":"left"}
+		{"id":"3a335684c914cb42","fromNode":"e586f634a2fa97f8","fromSide":"right","toNode":"3b26e4a224161044","toSide":"left"},
+		{"id":"39c622285eefc559","fromNode":"e586f634a2fa97f8","fromSide":"bottom","toNode":"bf099f3bd8f70771","toSide":"top"},
+		{"id":"caa3047a18b2c7ce","fromNode":"bf099f3bd8f70771","fromSide":"right","toNode":"44c83a55de2abafd","toSide":"left"},
+		{"id":"3e0dfe8ca0efaa9a","fromNode":"44c83a55de2abafd","fromSide":"right","toNode":"06a6b79238a66f20","toSide":"left"},
+		{"id":"f5d1dc739bc26aba","fromNode":"06a6b79238a66f20","fromSide":"right","toNode":"9209923e39313724","toSide":"left"},
+		{"id":"354b61fc67373e85","fromNode":"06a6b79238a66f20","fromSide":"top","toNode":"5b8727280574baa8","toSide":"top"},
+		{"id":"1f93ebbfe5cff3b7","fromNode":"9209923e39313724","fromSide":"right","toNode":"5b8727280574baa8","toSide":"left"},
+		{"id":"0227032daa02bc75","fromNode":"5b8727280574baa8","fromSide":"right","toNode":"80294a879f32beef","toSide":"left"},
+		{"id":"c139cb9e88bd9886","fromNode":"bf099f3bd8f70771","fromSide":"right","toNode":"f8699f6ed4dc8385","toSide":"left"},
+		{"id":"ceafe2320dcc6f3d","fromNode":"f8699f6ed4dc8385","fromSide":"right","toNode":"da8945a658b4d4a4","toSide":"left"}
 	]
 }

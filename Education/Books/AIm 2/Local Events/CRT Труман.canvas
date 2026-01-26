@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"1d65aebb0afd388d","type":"file","file":"Education/Books/AIm 2/Local Events/Список нежелательных явлений Труман.md","x":-480,"y":-420,"width":400,"height":723},
+		{"id":"6f1a3413bd091865","type":"text","text":"Существует безпрецедентное давление вынуждающее быстро разрабатывать новые продукты ","x":510,"y":-620,"width":250,"height":184},
+		{"id":"e4fe0c627c64dd18","type":"text","text":"8, В отраслях передавых техналогий существует необходимость выпускать новые продукты с огромной скоростью ","x":636,"y":-919,"width":367,"height":171,"color":"3"},
+		{"id":"3e611230f2499859","x":316,"y":-899,"width":250,"height":121,"color":"3","type":"text","text":"9, Постоянный  выпуск новых продуктов сбивает с толку и портит рынки  "},
+		{"id":"5829f984c072f9ba","type":"text","text":"Один из наиболее эффективных способов увеличить продажи это разработка новых улучшенных продуктов ","x":220,"y":-262,"width":250,"height":167},
+		{"id":"515b7ed12318943d","x":929,"y":-1254,"width":250,"height":163,"type":"text","text":"В отраслях передавых техналогий продавцы вынуждены изучать новые продукты слишком часто "},
+		{"id":"5d8f6d0cd58ea2c7","x":1274,"y":-1480,"width":250,"height":60,"color":"3","type":"text","text":"12, продавцы перегружены"},
+		{"id":"750e68f8fcd9cc9e","type":"text","text":"8, Существует необходимость выпускать новые продукты с огромной скоростью ","x":929,"y":-700,"width":388,"height":112,"color":"3"},
+		{"id":"cee975d754ee38f0","type":"text","text":"Существует ряд отраслей в которых быстрое развитие новых материалов позваляет быстрое развите новых продуктов  это отрасли передавых техналогий ","x":511,"y":-58,"width":250,"height":216},
+		{"id":"13f0c78a7be26315","type":"text","text":"7, Существует безпрецедентное давление на фирмы вынуждающее их к действиям направленным на увелечение продаж ","x":804,"y":-340,"width":250,"height":209,"color":"3"},
+		{"id":"0c50af7003251c75","x":1274,"y":-300,"width":250,"height":182,"type":"text","text":"Существует безпрецедентное давление на продавцов, вынуждающие их увеличить продажи"}
+	],
+	"edges":[
+		{"id":"175fd41ba09b1428","fromNode":"5829f984c072f9ba","fromSide":"top","toNode":"6f1a3413bd091865","toSide":"bottom"},
+		{"id":"6a3e8c725e07c0ab","fromNode":"13f0c78a7be26315","fromSide":"top","toNode":"6f1a3413bd091865","toSide":"bottom"},
+		{"id":"a7e253f684f992be","fromNode":"6f1a3413bd091865","fromSide":"top","toNode":"e4fe0c627c64dd18","toSide":"bottom"},
+		{"id":"a3a4c4f583675009","fromNode":"cee975d754ee38f0","fromSide":"top","toNode":"6f1a3413bd091865","toSide":"bottom"},
+		{"id":"2b608da6f4464f8f","fromNode":"6f1a3413bd091865","fromSide":"top","toNode":"3e611230f2499859","toSide":"bottom"},
+		{"id":"8396011168dcb447","fromNode":"e4fe0c627c64dd18","fromSide":"right","toNode":"750e68f8fcd9cc9e","toSide":"top","toEnd":"none","color":"3"},
+		{"id":"c99a9f301807b4ca","fromNode":"515b7ed12318943d","fromSide":"top","toNode":"5d8f6d0cd58ea2c7","toSide":"bottom"},
+		{"id":"23067d3cf0618f55","fromNode":"e4fe0c627c64dd18","fromSide":"top","toNode":"515b7ed12318943d","toSide":"bottom"},
+		{"id":"c61098a97b47800c","fromNode":"cee975d754ee38f0","fromSide":"right","toNode":"0c50af7003251c75","toSide":"bottom"},
+		{"id":"cee3a4a5f46c0279","fromNode":"0c50af7003251c75","fromSide":"top","toNode":"5d8f6d0cd58ea2c7","toSide":"bottom"}
+	]
+}

@@ -36,13 +36,22 @@
 		{"id":"d07a617e93a65e8e","type":"text","text":"Анализ","x":470,"y":1439,"width":250,"height":60},
 		{"id":"e3b3e4359822cbd4","type":"file","file":"Education/Books/AIm 2/Local Events/Решение-Анализ пита.canvas","x":1013,"y":1269,"width":400,"height":400},
 		{"id":"b21e339b975a55c6","type":"text","text":"Самолет ","x":-160,"y":1700,"width":250,"height":60},
-		{"id":"2ec92315a6e203cb","x":260,"y":1975,"width":250,"height":60,"type":"text","text":"Званок пита "},
-		{"id":"b673b46b5aec51f3","x":620,"y":1975,"width":250,"height":60,"type":"text","text":"2 крупные сделки "},
-		{"id":"6e7db0b636f9fb29","x":963,"y":1975,"width":250,"height":60,"type":"text","text":"Бар  Даути и Труман"},
-		{"id":"b4f59ecf0fc4e32d","x":1321,"y":1975,"width":250,"height":60,"type":"text","text":"пересмотр сделки"},
-		{"id":"f5a71b45f9760393","x":-160,"y":1975,"width":250,"height":60,"type":"text","text":"Переговоры "},
+		{"id":"2ec92315a6e203cb","type":"text","text":"Званок пита ","x":260,"y":1975,"width":250,"height":60},
+		{"id":"b673b46b5aec51f3","type":"text","text":"2 крупные сделки ","x":620,"y":1975,"width":250,"height":60},
+		{"id":"6e7db0b636f9fb29","type":"text","text":"Бар  Даути и Труман","x":963,"y":1975,"width":250,"height":60},
+		{"id":"b4f59ecf0fc4e32d","type":"text","text":"пересмотр сделки","x":1321,"y":1975,"width":250,"height":60},
+		{"id":"f5a71b45f9760393","type":"text","text":"Переговоры ","x":-160,"y":1975,"width":250,"height":60},
 		{"id":"54cea243173b4a75","type":"text","text":"Спор с Труман","x":260,"y":1700,"width":250,"height":60},
-		{"id":"72207a8a14cf41bf","type":"text","text":"Грозавая туча ","x":640,"y":1700,"width":250,"height":60,"color":"1"}
+		{"id":"72207a8a14cf41bf","type":"text","text":"Грозавая туча ","x":640,"y":1700,"width":250,"height":60,"color":"1"},
+		{"id":"7600936fd1cae10c","x":-160,"y":2120,"width":250,"height":60,"type":"text","text":"Бар"},
+		{"id":"a0c1da6e04f65af9","x":624,"y":2122,"width":250,"height":60,"type":"text","text":"Задача"},
+		{"id":"644c3c153e4fda3d","x":260,"y":2122,"width":250,"height":63,"type":"text","text":"Обсуждение методов Ионы"},
+		{"id":"a57295c0978324d7","x":-160,"y":2280,"width":250,"height":80,"type":"text","text":"Встреча для продажи Стейси "},
+		{"id":"124feebf745a0943","x":260,"y":2290,"width":250,"height":60,"type":"text","text":"цена оборудование 1"},
+		{"id":"f64c310bccfd335c","type":"text","text":"цена оборудование 1","x":640,"y":2294,"width":250,"height":56},
+		{"id":"edd21cb29ee07222","x":963,"y":2120,"width":250,"height":60,"type":"text","text":"5 -10 причин"},
+		{"id":"d76d015d16ff61b4","x":1013,"y":2290,"width":250,"height":60,"type":"text","text":"Цена материально таварных запасов "},
+		{"id":"550eb7f898594dca","x":1413,"y":2290,"width":250,"height":60,"type":"text","text":"цена земли "}
 	],
 	"edges":[
 		{"id":"ac98e779d80108e1","fromNode":"de4439ea8f08ce1e","fromSide":"right","toNode":"cb8eaacde9f18212","toSide":"left","toEnd":"none"},
@@ -88,6 +97,13 @@
 		{"id":"b2410e312cb8f4ba","fromNode":"f5a71b45f9760393","fromSide":"right","toNode":"2ec92315a6e203cb","toSide":"left"},
 		{"id":"41e40e46cff2de8f","fromNode":"6e7db0b636f9fb29","fromSide":"right","toNode":"b4f59ecf0fc4e32d","toSide":"left"},
 		{"id":"2be52e69c698c4ba","fromNode":"2ec92315a6e203cb","fromSide":"right","toNode":"b673b46b5aec51f3","toSide":"left"},
-		{"id":"a894742dff5a1df1","fromNode":"b673b46b5aec51f3","fromSide":"right","toNode":"6e7db0b636f9fb29","toSide":"left"}
+		{"id":"a894742dff5a1df1","fromNode":"b673b46b5aec51f3","fromSide":"right","toNode":"6e7db0b636f9fb29","toSide":"left"},
+		{"id":"f9fb788f6d62135a","fromNode":"7600936fd1cae10c","fromSide":"right","toNode":"644c3c153e4fda3d","toSide":"left"},
+		{"id":"3c6c10022a5d88fe","fromNode":"644c3c153e4fda3d","fromSide":"right","toNode":"a0c1da6e04f65af9","toSide":"left"},
+		{"id":"b2fd10230f19a313","fromNode":"a0c1da6e04f65af9","fromSide":"right","toNode":"edd21cb29ee07222","toSide":"left"},
+		{"id":"31d565073a240b3d","fromNode":"a57295c0978324d7","fromSide":"right","toNode":"124feebf745a0943","toSide":"left"},
+		{"id":"9552e97abc269850","fromNode":"124feebf745a0943","fromSide":"right","toNode":"f64c310bccfd335c","toSide":"left"},
+		{"id":"88a0d19a1e0d7525","fromNode":"f64c310bccfd335c","fromSide":"right","toNode":"d76d015d16ff61b4","toSide":"left"},
+		{"id":"1cef8cb4bb9f8745","fromNode":"d76d015d16ff61b4","fromSide":"right","toNode":"550eb7f898594dca","toSide":"left"}
 	]
 }

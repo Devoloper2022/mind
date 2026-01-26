@@ -1,4 +1,0 @@
-
-Constructor 
-setters
-Autowired

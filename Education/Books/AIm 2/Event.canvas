@@ -34,7 +34,15 @@
 		{"id":"93e7f909dfbb8edf","type":"text","text":"Конфликт с дочкой ","x":300,"y":-82,"width":250,"height":60,"color":"1"},
 		{"id":"21ed89878422f5cf","type":"text","text":"Решение Пита","x":461,"y":1300,"width":250,"height":60},
 		{"id":"d07a617e93a65e8e","type":"text","text":"Анализ","x":470,"y":1439,"width":250,"height":60},
-		{"id":"e3b3e4359822cbd4","x":1013,"y":1269,"width":400,"height":400,"type":"file","file":"Education/Books/AIm 2/Local Events/Решение-Анализ пита.canvas"}
+		{"id":"e3b3e4359822cbd4","type":"file","file":"Education/Books/AIm 2/Local Events/Решение-Анализ пита.canvas","x":1013,"y":1269,"width":400,"height":400},
+		{"id":"b21e339b975a55c6","type":"text","text":"Самолет ","x":-160,"y":1700,"width":250,"height":60},
+		{"id":"2ec92315a6e203cb","x":260,"y":1975,"width":250,"height":60,"type":"text","text":"Званок пита "},
+		{"id":"b673b46b5aec51f3","x":620,"y":1975,"width":250,"height":60,"type":"text","text":"2 крупные сделки "},
+		{"id":"6e7db0b636f9fb29","x":963,"y":1975,"width":250,"height":60,"type":"text","text":"Бар  Даути и Труман"},
+		{"id":"b4f59ecf0fc4e32d","x":1321,"y":1975,"width":250,"height":60,"type":"text","text":"пересмотр сделки"},
+		{"id":"f5a71b45f9760393","x":-160,"y":1975,"width":250,"height":60,"type":"text","text":"Переговоры "},
+		{"id":"54cea243173b4a75","type":"text","text":"Спор с Труман","x":260,"y":1700,"width":250,"height":60},
+		{"id":"72207a8a14cf41bf","type":"text","text":"Грозавая туча ","x":640,"y":1700,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"ac98e779d80108e1","fromNode":"de4439ea8f08ce1e","fromSide":"right","toNode":"cb8eaacde9f18212","toSide":"left","toEnd":"none"},
@@ -72,6 +80,14 @@
 		{"id":"e8e862ebeb00be54","fromNode":"aec21285eb7c8a8d","fromSide":"right","toNode":"93e7f909dfbb8edf","toSide":"left"},
 		{"id":"d544fb505f25db7a","fromNode":"7c7b5cb960f1324a","fromSide":"right","toNode":"d07a617e93a65e8e","toSide":"left"},
 		{"id":"10c8178d6349a46a","fromNode":"21ed89878422f5cf","fromSide":"right","toNode":"e3b3e4359822cbd4","toSide":"left"},
-		{"id":"29d83dcf3fef5bf3","fromNode":"d07a617e93a65e8e","fromSide":"right","toNode":"e3b3e4359822cbd4","toSide":"left"}
+		{"id":"29d83dcf3fef5bf3","fromNode":"d07a617e93a65e8e","fromSide":"right","toNode":"e3b3e4359822cbd4","toSide":"left"},
+		{"id":"68ab7b14c299e0f4","fromNode":"b21e339b975a55c6","fromSide":"right","toNode":"54cea243173b4a75","toSide":"left"},
+		{"id":"7fbe8d9bf0a5dcc4","fromNode":"54cea243173b4a75","fromSide":"right","toNode":"72207a8a14cf41bf","toSide":"left"},
+		{"id":"f66b6f7d13da80c4","fromNode":"7c7b5cb960f1324a","fromSide":"bottom","toNode":"b21e339b975a55c6","toSide":"top"},
+		{"id":"0e059672d8095794","fromNode":"b21e339b975a55c6","fromSide":"bottom","toNode":"f5a71b45f9760393","toSide":"top"},
+		{"id":"b2410e312cb8f4ba","fromNode":"f5a71b45f9760393","fromSide":"right","toNode":"2ec92315a6e203cb","toSide":"left"},
+		{"id":"41e40e46cff2de8f","fromNode":"6e7db0b636f9fb29","fromSide":"right","toNode":"b4f59ecf0fc4e32d","toSide":"left"},
+		{"id":"2be52e69c698c4ba","fromNode":"2ec92315a6e203cb","fromSide":"right","toNode":"b673b46b5aec51f3","toSide":"left"},
+		{"id":"a894742dff5a1df1","fromNode":"b673b46b5aec51f3","fromSide":"right","toNode":"6e7db0b636f9fb29","toSide":"left"}
 	]
 }

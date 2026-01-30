@@ -10,6 +10,7 @@
 		{"id":"5d8fae8f42d642d9","type":"text","text":"Директор ","x":-280,"y":-215,"width":250,"height":60},
 		{"id":"7fe71cd0a9994943","type":"text","text":"Хилтон Смит  (Вице-президент)","x":-521,"y":90,"width":300,"height":60},
 		{"id":"5a602d5a9aecf4ac","type":"text","text":"акционеры ","x":100,"y":-500,"width":250,"height":60},
+		{"id":"18cadbea4d6d01ee","type":"text","text":"Иона ","x":1461,"y":-252,"width":250,"height":60,"color":"#ffdd00"},
 		{"id":"262daf7636d49b73","type":"text","text":"Дон помощник\n","x":540,"y":500,"width":250,"height":60},
 		{"id":"baa6ecc8c66e33be","type":"text","text":"Основная группа 2","x":-496,"y":275,"width":250,"height":60},
 		{"id":"1a103191811914e6","type":"text","text":"Основная группа 1","x":-980,"y":275,"width":250,"height":60},
@@ -17,20 +18,19 @@
 		{"id":"e27ad19961823b6e","type":"text","text":"Alex группа","x":150,"y":500,"width":250,"height":60,"color":"1"},
 		{"id":"de7610b177c62dd6","type":"text","text":"Шарон 14","x":1966,"y":34,"width":250,"height":60},
 		{"id":"ac2a69934a826d65","type":"text","text":"Ale","x":2010,"y":-419,"width":250,"height":60,"color":"1"},
+		{"id":"34175b7aaf951a1b","type":"text","text":"Брендон Труман","x":100,"y":-360,"width":250,"height":60},
+		{"id":"5a0d6623f9772ec3","type":"text","text":"Джеймс Даути ","x":380,"y":-360,"width":250,"height":60},
 		{"id":"423bd689839f1834","type":"text","text":"Дэйв","x":2459,"y":45,"width":250,"height":60},
 		{"id":"8467a442dc4bedc2","type":"text","text":"Джули\n","x":2507,"y":-419,"width":250,"height":60},
 		{"id":"88a9492964759fe6","type":"text","text":"Дети\n\n","x":2260,"y":-180,"width":250,"height":60},
-		{"id":"18cadbea4d6d01ee","type":"text","text":"Иона ","x":1461,"y":-252,"width":250,"height":60,"color":"#ffdd00"},
 		{"id":"99f79fb16085e97e","type":"text","text":"Пит  (Директор)","x":151,"y":800,"width":250,"height":60},
 		{"id":"dbbc42470fe1c44f","type":"text","text":"Pressure - Stream","x":520,"y":700,"width":250,"height":60},
 		{"id":"45eb6c24a97422df","type":"text","text":" Типографии","x":104,"y":700,"width":345,"height":60},
 		{"id":"54faaee121c93fb1","type":"text","text":"I Cosmetics","x":-200,"y":700,"width":250,"height":50},
 		{"id":"eab81fc76a841ee5","type":"text","text":"Боб Донован","x":-200,"y":800,"width":250,"height":60},
 		{"id":"b21a43ff7072bd1c","type":"text","text":"Стейси Кауфман","x":520,"y":800,"width":250,"height":60},
-		{"id":"275cda464be4fb0a","x":1243,"y":730,"width":250,"height":60,"type":"text","text":"Брендон"},
-		{"id":"34175b7aaf951a1b","type":"text","text":"Брендон Труман","x":100,"y":-360,"width":250,"height":60},
-		{"id":"5a0d6623f9772ec3","type":"text","text":"Джеймс Даути ","x":380,"y":-360,"width":250,"height":60},
-		{"id":"19280b92f90f3ca0","x":1243,"y":640,"width":250,"height":60,"type":"text","text":"Джим "}
+		{"id":"19280b92f90f3ca0","type":"text","text":"Эрик ( бойфренд)","x":1500,"y":34,"width":250,"height":60},
+		{"id":"275cda464be4fb0a","type":"text","text":"Дебби (подруга)","x":1500,"y":280,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"889b58b423056907","fromNode":"a382a09f8b4c577d","fromSide":"bottom","toNode":"39c5fe672a0b9dae","toSide":"top"},
@@ -57,6 +57,8 @@
 		{"id":"ec796b1dfd5cc330","fromNode":"54faaee121c93fb1","fromSide":"bottom","toNode":"eab81fc76a841ee5","toSide":"top"},
 		{"id":"c521ca8b0771c75f","fromNode":"dbbc42470fe1c44f","fromSide":"bottom","toNode":"b21a43ff7072bd1c","toSide":"top"},
 		{"id":"0a000ec518af2ae0","fromNode":"5a602d5a9aecf4ac","fromSide":"bottom","toNode":"34175b7aaf951a1b","toSide":"top"},
-		{"id":"1caf6f45612f8453","fromNode":"5a602d5a9aecf4ac","fromSide":"bottom","toNode":"5a0d6623f9772ec3","toSide":"top"}
+		{"id":"1caf6f45612f8453","fromNode":"5a602d5a9aecf4ac","fromSide":"bottom","toNode":"5a0d6623f9772ec3","toSide":"top"},
+		{"id":"d4a6c60dbff14698","fromNode":"de7610b177c62dd6","fromSide":"left","toNode":"19280b92f90f3ca0","toSide":"right","toEnd":"none"},
+		{"id":"7177878293469faf","fromNode":"275cda464be4fb0a","fromSide":"right","toNode":"de7610b177c62dd6","toSide":"bottom","toEnd":"none"}
 	]
 }
